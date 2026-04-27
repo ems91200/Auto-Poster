@@ -1,0 +1,26 @@
+1. Information We Collect
+We only collect information that is necessary to provide the service. This includes:
+
+Authentication Data: Access tokens provided by TikTok via OAuth. We do not see or store your TikTok password.
+
+Media Data: The video files you provide for upload.
+
+Metadata: Information such as video captions and hashtags provided by you.
+
+2. How We Use Your Information
+Your data is used solely to facilitate the transfer of content from n8n to your TikTok account.
+
+We do not use your videos for machine learning or AI training.
+
+We do not sell your personal data to third parties.
+
+3. Data Retention and Storage
+Automation Logs: We may store temporary logs within our n8n environment to troubleshoot failed uploads. These are purged every 7 days.
+
+Tokens: OAuth tokens are stored securely within our encrypted database to maintain your connection to TikTok.
+
+4. Third-Party Sharing
+The only third party we share your data with is TikTok, as that is the primary function of the app. We do not share your data with any other advertising or analytics firms.
+
+5. Your Rights
+You can revoke our app's access at any time through your TikTok account settings under "Security and Login" > "Manage App Access." Once revoked, we can no longer access your account or post on your behalf.
